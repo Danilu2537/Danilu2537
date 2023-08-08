@@ -3,6 +3,7 @@
 # Hello, my name is Danila.
 I'm an aspiring developer, with experience in computer networking, \
 and a great desire to know more.
+
 ---
 ### Languages:
 > Language is the key to the **heart**
