@@ -38,7 +38,9 @@ success = [use(skill)
 - Brain 🧠
 - and more...
 ```python
-re.search(r"(?i)^.*?(?:\b)best(?:\b).*?(?:\b)practice(?:\b).*?$")
+my_goals._searches.append(
+    re.search(r"(?i)^.*?(?:\b)best(?:\b).*?(?:\b)practice(?:\b).*?$")
+)
 ```
 ---
 > Strive for the goal not only for the sake of achieving the result, but also for the sake of the process. \
