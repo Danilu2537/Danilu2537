@@ -21,6 +21,8 @@ and a great desire to know more.
 - Alembic
 - Python-telegram-bot
 - Aiorgram
+- Pandas
+- Matplotlib
 - STL
 ```python
 success = [use(skill)
