@@ -1,7 +1,7 @@
 [![Typing](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans+Mono&size=50&duration=2000&color=F74242&center=true&vCenter=true&width=1000&lines=Harder;Better;Faster;Stronger)](https://git.io/typing-svg)
 
 # Hello, my name is Danila.
-I'm an aspiring developer, with experience in computer networking, \
+I'm an developer, with experience in computer networking, \
 and a great desire to know more.
 
 ---
@@ -9,6 +9,7 @@ and a great desire to know more.
 > Language is the key to the **heart**
 - Python
 - C/C++
+- Rust
 ---
 ### Tech Stack *(for now)*:
 - Flask
@@ -35,6 +36,8 @@ success = [use(skill)
 - Git
 - Docker
 - Github Actions
+- Gitlab CI/CD
+- Kubernetes
 - Brain 🧠
 - and more...
 ```python
